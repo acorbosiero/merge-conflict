@@ -7,3 +7,11 @@
 # Leadership
 - skill: Leadership
   description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+  
+# Skill 1
+- skill: Random Skill
+  description: Did a thing that connects to skill listed
+  
+# Skill 2
+- skill: Organization
+  description: Organized things
